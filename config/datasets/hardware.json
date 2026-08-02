@@ -524,7 +524,7 @@
             "gpuVendor",
             "cpuVendor",
             "osName",
-            "hasFlash"
+            "browserArch"
         ],
         "dashboard": {
             "sectioned": true,
